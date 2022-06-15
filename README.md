@@ -4,7 +4,7 @@
 ## [Sudmant, P., Rausch, T., Gardner, E. et al. An integrated map of structural variation in 2,504 human genomes. Nature 526, 75–81 (2015).]( https://doi.org/10.1038/nature15394)
 
 The goal of the 1000 Genomes Project was to find most genetic variants with frequencies of at least 1% in the populations studied. It was the first project to sequence the genomes of a large number of people, to provide a comprehensive resource on human genetic variation. Data from the 1000 Genomes Project was quickly made available to the worldwide scientific community through freely accessible public databases.
-`json
+```
 "oneKg":{
    "allAf":0.200879,
    "afrAf":0.210287,
@@ -25,3 +25,4 @@ The goal of the 1000 Genomes Project was to find most genetic variants with freq
    "eurAc":183,
    "sasAc":170
 }
+```
