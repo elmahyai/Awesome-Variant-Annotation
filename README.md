@@ -26,3 +26,74 @@ The goal of the 1000 Genomes Project was to find most genetic variants with freq
    "sasAc":170
 }
 ```
+
+
+
+``` bash
+├── 220526_A01370_0007_AH2725DSX3
+│   ├── Annotated_JSONs
+│   ├── CNV
+│   ├── SV
+│   └── VCF
+├── 220530_A01370_0008_BH2C5HDSX3
+│   ├── Annotated_JSONs
+│   ├── CNV
+│   ├── SV
+│   └── VCF
+├── 220616_A01370_0009_BH5TNHDSX3
+│   ├── Annotated_JSONs
+│   ├── CNV
+│   ├── SV
+│   └── VCF
+├── 220621_A01370_0010_AH5VJMDSX3
+│   ├── Annotated_JSONs
+│   ├── CNV
+│   ├── SV
+│   └── VCF
+├── 220623_A01372_0009_BHGK25DSX3
+│   ├── Annotated_JSONs
+│   ├── CNV
+│   ├── SV
+│   └── VCF
+├── 220703_A01370_0011_AHGK23DSX3
+│   ├── Annotated_JSONs
+│   ├── CNV
+│   ├── SV
+│   └── VCF
+├── 220705_A01372_0011_BHGJVTDSX3
+│   ├── Annotated_JSONs
+│   ├── CNV
+│   ├── SV
+│   └── VCF
+├── 220807_A01370_0017_AHGJM5DSX3
+│   ├── Annotated_JSONs
+│   ├── CNV
+│   ├── SV
+│   └── VCF
+├── 220809_A01370_0018_BHGKCCDSX3
+│   ├── Annotated_JSONs
+│   ├── CNV
+│   ├── SV
+│   └── VCF
+├── 220811_A01370_0019_AHGJKHDSX3
+│   ├── Annotated_JSONs
+│   ├── CNV
+│   ├── SV
+│   └── VCF
+├── 220815_A01370_0020_AHGK2KDSX3
+│   ├── Annotated_JSONs
+│   ├── CNV
+│   ├── SV
+│   └── VCF
+├── 220815_A01370_0021_BHGK5WDSX3
+│   ├── Annotated_JSONs
+│   ├── CNV
+│   ├── SV
+│   └── VCF
+└── 220817_A01370_0022_AHGJ3NDSX3
+    ├── Annotated_JSONs
+    ├── CNV
+    ├── SV
+    └── VCF
+
+```
