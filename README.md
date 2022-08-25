@@ -27,7 +27,16 @@ The goal of the 1000 Genomes Project was to find most genetic variants with freq
 }
 ```
 
+```bash
+├── world
+│   ├── Egypt
+        ├── Cairo
+        └── Alexandria
+│   ├── America
+│   └── Germany
+```
 
+fsdgsdg
 
 ``` bash
 ├── 220526_A01370_0007_AH2725DSX3
